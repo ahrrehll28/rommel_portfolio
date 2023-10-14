@@ -16,26 +16,51 @@
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Within UI/UX design, I integrate creativity and user-centric functionality to craft seamless interfaces that captivate and ensure an enjoyable user experience, utilizing design principles, wireframes, prototypes, and user research insights to deliver client-centric products that delight and engage end-users."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Knowledgeable in creating efficient and engaging web flows."
+    },
+    {
+      "id": "5",
+      "src": "./img/graphics.png",
+      "title": "Graphics",
+      "description": "Specialize in turning ideas into visually stunning creations that leave a lasting impression. I thrive on bringing creativity to life, ensuring each design uniquely reflects the message and purpose it's meant to convey."
+    },
+    {
+      "id": "6",
+      "src": "./img/video.png",
+      "title": "Video Editor",
+      "description": "transforming raw footage into compelling visual stories. Seamlessly piecing together elements, I create captivating videos that resonate with the intended audience and convey messages effectively."
+    },{
+      "id": "7",
+      "src": "./img/animator.png",
+      "title": "Animator",
+      "description": "Crafting visually engaging animations that captivate and immerse viewers in imaginative worlds. And bring characters and stories to life through movement and emotion."
+    },
+    {
+      "id": "8",
+      "src": "./img/smm.png",
+      "title": "SMM",
+      "description": "Specialize in creating strategic content that boosts brand presence, engages the audience, and fosters a lasting and meaningful connection within the online community by utilizing data-driven insights and creative storytelling to drive impactful campaigns."
     }
+
+
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "src": "./img/dja2.png",
+      "title": "iPhone E-Commerce Store",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "https://github.com/ahrrehll28"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
+      "src": "./img/merndashboard.png",
       "title": "App Dashboard",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
       "link": "View In Github"
@@ -52,26 +77,26 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Wenn Mark Recopelacion",
-      "author_designation": "Starbucks"
+      "src": "./img/rodge.png",
+      "description": "He is proactive in terms in approach, attention to detail, and passion for continuous learning have significantly contributed to our project success. Highly competent and proactive, Rommel is recommended for any role in his field.",
+      "author_name": "Rodgie Sermogines",
+      "author_designation": "Home Solutions Marketing Manager"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Wenn Mark Recopelacion",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/tinay.png",
+      "description": "I highly recommend Rommel as a contractor; his skills and professionalism greatly contributed to the success of our project. ",
+      "author_name": "Kristine B. Abelgas",
+      "author_designation": "Coo in Banquerigo Group of Companies"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "src": "./img/wenn.png",
+      "description": "He is an exceptional trainee with a strong dedication to learning and growth. He consistently displays a keen understanding of the subject matter and approaches tasks with enthusiasm and creativity.",
       "author_name": "Wenn Mark Recopelacion",
-      "author_designation": "McDonald's"
+      "author_designation": "Sr. Software Engineer / Mentor"
     }
   ]
 }
