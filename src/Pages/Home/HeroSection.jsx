@@ -1,11 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
-const textArray = [
-  "Full Stack Web Developer",
-  "Graphics Designer",
-  "Video Editor",
-];
+const textArray = ["Full Stack Developer", "Graphics Designer", "Video Editor"];
 
 export default function HeroSection() {
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
@@ -37,19 +33,11 @@ export default function HeroSection() {
             </span>
           </h1>
           <p className="hero--section-description">
-            I am a versatile professional skilled in graphic arts, web design,
-            video editing, web development, software engineering, and social
-            media management. In graphic arts, I emphasize aesthetic appeal and
-            tailored designs. As a web designer, I create user-friendly and
-            visually captivating websites. Video editing enables me to transform
-            raw footage into engaging stories. My proficiency as a web developer
-            and software engineer helps in building functional and scalable
-            applications. In social media management, I excel in curating
-            engaging content and utilizing strategic approaches for brand
-            enhancement. My multidisciplinary expertise allows me to deliver
-            comprehensive solutions, staying updated with the latest trends and
-            technologies. My ultimate goal is to contribute my skills and
-            knowledge to drive success in every project I undertake.
+            As a versatile professional, my skills span a broad spectrum. From
+            aesthetic graphic designs to user-friendly websites and engaging
+            video stories, my expertise spans a wide range. I'm committed to
+            staying updated with the latest trends and technologies, ensuring
+            comprehensive and successful project outcomes.
           </p>
         </div>
         <button className="btn btn-primary">

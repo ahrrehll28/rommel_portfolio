@@ -9,20 +9,11 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Specialize in creating strategic content that boosts brand presence,
-            engages the audience, and fosters a lasting and meaningful
-            connection within the online community by utilizing data-driven
-            insights and creative storytelling to drive impactful campaigns.
-          </p>
-          <p className="hero--section-description">
-            As a dedicated contractor committed to exceptional quality and
-            timely, budget-friendly project completion, I emphasize clear
-            communication, collaboration, and a proactive approach to exceed
-            client expectations and ensure a successful project experience while
-            prioritizing professionalism, integrity, and strong client
-            relationships by understanding their needs and delivering top-notch
-            work, ultimately aiming for their complete satisfaction in both
-            project outcomes and our overall working rapport.
+            Hey there! I'm all about delivering top-notch work as a dedicated
+            contractor. Quality, timeliness, and keeping things budget-friendly
+            are my priorities. I believe in open communication, teamwork, and
+            staying ahead of the game to ensure clients are happy and our bond
+            grows stronger. Let's make every project a success!
           </p>
         </div>
       </div>

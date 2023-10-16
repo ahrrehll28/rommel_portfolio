@@ -6,13 +6,13 @@ export default function MyPortfolio() {
     <section className="portfolio--section" id="MyPortfolio">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Recent Projects</p>
           <h2 className="section--heading">My Portfolio</h2>
         </div>
         <div>
           <Link
             style={{ textDecoration: "none" }}
-            to="https://github.com/ahrrehll28"
+            to="https://drive.google.com/file/d/1NLIPArsXYfBMHFTP4uYfPQvy-eSFxAic/view?usp=sharing"
+            target="_blank"
           >
             <button className="btn btn-github">
               <svg
@@ -29,7 +29,7 @@ export default function MyPortfolio() {
                   fill="currentColor"
                 />
               </svg>
-              Visit My GitHub
+              Download My Resume
             </button>
           </Link>
         </div>

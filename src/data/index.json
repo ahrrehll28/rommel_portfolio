@@ -4,7 +4,7 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Designing a website using the lastest tech stack like ReactJs and NextJs"
+      "description": "Utilizing cutting-edge tech stacks like ReactJs, VueJs, and NextJs ensures a dynamic, high-performance website design."
     },
     {
       "id": "2",
@@ -16,13 +16,13 @@
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Within UI/UX design, I integrate creativity and user-centric functionality to craft seamless interfaces that captivate and ensure an enjoyable user experience, utilizing design principles, wireframes, prototypes, and user research insights to deliver client-centric products that delight and engage end-users."
+      "description": "I craft standout, user-focused UI/UX designs using the latest trends and tech to exceed client expectations."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Knowledgeable in creating efficient and engaging web flows."
+      "description": "Making a webflow for the web application to enable developers to complete their tasks can speed up development."
     },
     {
       "id": "5",
@@ -39,13 +39,13 @@
       "id": "7",
       "src": "./img/animator.png",
       "title": "Animator",
-      "description": "Crafting visually engaging animations that captivate and immerse viewers in imaginative worlds. And bring characters and stories to life through movement and emotion."
+      "description": "With meticulous attention to detail and a passion for pushing the boundaries of visual storytelling, I strive to create animations that leave a lasting impact and resonate with the hearts and minds of viewers worldwide."
     },
     {
       "id": "8",
       "src": "./img/smm.png",
       "title": "SMM",
-      "description": "Specialize in creating strategic content that boosts brand presence, engages the audience, and fosters a lasting and meaningful connection within the online community by utilizing data-driven insights and creative storytelling to drive impactful campaigns."
+      "description": "imaginative storytelling to create effective campaigns by specializing in the creation of strategic content that enhances brand presence, and fosters a lasting and meaningful connection within the online community."
     }
 
 
@@ -55,23 +55,45 @@
       "id": "1",
       "src": "./img/dja2.png",
       "title": "iPhone E-Commerce Store",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "https://github.com/ahrrehll28"
+      "description": "",
+      "link": "https://rommel-portfolio-psi.vercel.app/"
     },
     {
       "id": "2",
       "src": "./img/merndashboard.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "",
+      "link": "https://rommel-portfolio-psi.vercel.app/"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Easy Rent Web App",
+      "description": "",
+      "link": "https://rommel-portfolio-psi.vercel.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/Animation.png",
+      "title": "Animation Samples",
+      "description": "",
+      "link": "View In Github"
+    },
+    {
+      "id": "5",
+      "src": "./img/Video-samples.png",
+      "title": "Videos Samples",
+      "description": "",
+      "link": "View In Github"
+    },
+    {
+      "id": "6",
+      "src": "./img/graphics-sample.png",
+      "title": "Graphics Sample",
+      "description": "",
       "link": "View In Github"
     }
+    
   ],
   "testimonial": [
     {
@@ -86,7 +108,7 @@
       "id": "2",
       "count": "5",
       "src": "./img/tinay.png",
-      "description": "I highly recommend Rommel as a contractor; his skills and professionalism greatly contributed to the success of our project. ",
+      "description": "Rommel's enthusiasm, adaptability, and commitment to high-quality results were invaluable for our project's success. His positive attitude and attention to detail under pressure greatly boosted team productivity.",
       "author_name": "Kristine B. Abelgas",
       "author_designation": "Coo in Banquerigo Group of Companies"
     },

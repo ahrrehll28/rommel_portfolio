@@ -342,6 +342,10 @@ h2 {
   font-weight: 400;
   line-height: 32px;
 }
+.image-resize {
+  width: 70px; /* Adjust the width as needed */
+  height: 70px; /* Adjust the height as needed */
+}
 /* Skills Style Ends */
 
 /* About Us */
@@ -379,10 +383,11 @@ h2 {
   gap: 21.3px;
 }
 .portfolio--section--container {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   align-items: center;
   justify-content: center;
-  gap: 42.6px;
+  gap: 20px;
   width: 100%;
 }
 .portfolio--section--img {
@@ -425,6 +430,9 @@ h2 {
 }
 .portfolio--section--card:hover path {
   stroke: #006b6a;
+}
+.portfolio--section--card:hover {
+  transform: scale(1.1); /* Increase the scale on hover */
 }
 /* Portfolio Ends */
 
