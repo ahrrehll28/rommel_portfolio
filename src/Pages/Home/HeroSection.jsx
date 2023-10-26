@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
-const textArray = ["Full Stack Developer", "Graphics Designer", "Video Editor"];
+const textArray = ["Full Stack Developer", "Graphics Designer", "Video Editor", "SMM"];
 
 export default function HeroSection() {
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
